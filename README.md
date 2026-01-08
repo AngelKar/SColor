@@ -45,7 +45,7 @@ In this simple example, there are five performers (or, alternatively, five sets 
 * **Performers 3 and 5** play according to the instructions associated with the colour **cyan**, keeping in mind the word *FLOATING*.
 * **Performer 4** remains silent for the moment.
 
-![]("resources/SColor example.png")
+![](resources/SColor%20example.png)
 
 If a performer wishes to change the score before the conductor does, they can call one of the five actions (i.e., buttons) by performing the corresponding gesture.
 
