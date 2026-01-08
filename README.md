@@ -78,4 +78,4 @@ The program is designed to be easily configured for any type of ensemble, while 
 
 This program is free software: you may redistribute it and/or modify it under the terms of the **GNU General Public License** as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-See the **LICENSE** file for the full text of the GNU General Public License ![here](/LICENSE).
+See the **LICENSE** file for the full text of the GNU General Public License [here](/LICENSE).
